@@ -84,13 +84,15 @@ cd happiness-data-analysis-dashboard
 ```
 
 2. Install dependencies
+```bash
 pip install -r requirements.txt
+```
 
-3. Run the dashboard
-Open happiness_Index.ipynb in Jupyter Notebook and run all cells.
+4. Run the dashboard
+- Open happiness_Index.ipynb in Jupyter Notebook and run all cells.
 
-4. View the dashboard
-Open your browser and visit: http://127.0.0.1:8050
+5. View the dashboard
+- Open your browser and visit: http://127.0.0.1:8050
 
 
 

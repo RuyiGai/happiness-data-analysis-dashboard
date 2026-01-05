@@ -61,8 +61,8 @@ The analysis incorporates the following eight factors from the World Happiness d
 
 Publicly available datasets were used for this project:
 
-- **World-happiness-report-updated_2024.csv**  
-- **UN_Region_Categories.csv**
+- [World-happiness-report-updated_2024](data/World-happiness-report-updated_2024.csv)  
+- [UN_Region_Categories](data/UN_Region_Categories.csv)
 
 The data was downloaded from public online sources and used for educational purposes only.
 

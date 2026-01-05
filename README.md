@@ -176,7 +176,7 @@ pip install -r requirements.txt
 
 3\. Run the dashboard
 
-Open happiness\_Index.ipynb in Jupyter Notebook and run all cells
+Open 'happiness\_Index.ipynb' in Jupyter Notebook and run all cells
 
 
 

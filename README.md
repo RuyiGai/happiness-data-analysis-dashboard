@@ -1,4 +1,4 @@
-# 🌍 World Happiness Index Dashboard
+<h1 align="center">🌍 World Happiness Index Dashboard</h1>
 
 An interactive data visualization dashboard built with Python and Dash to analyze global happiness trends and examine how different influencing factors relate to happiness levels across countries and regions over time.
 

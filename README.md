@@ -92,7 +92,7 @@ pip install -r requirements.txt
 - Open happiness_Index.ipynb in Jupyter Notebook and run all cells.
 
 5. View the dashboard
-- Open your browser and visit: http://127.0.0.1:8050
+- Open your browser and visit: http://127.0.0.1:8049
 
 
 

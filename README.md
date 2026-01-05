@@ -75,7 +75,7 @@ The dashboard enables year-based filtering and comparative analysis to support i
 
 ---
 
-# ▶️ How to Run
+## ▶️ How to Run
 
 1. Clone the repository
 ```bash

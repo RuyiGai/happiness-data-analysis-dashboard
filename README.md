@@ -156,7 +156,7 @@ The dashboard enables year-based filtering and comparative analysis to support i
 
 \## ▶️ How to Run
 
-1. Clone the repository
+1\. Clone the repository
 
 ```bash
 
@@ -164,21 +164,23 @@ git clone https://github.com/RuyiGai/happiness-data-analysis-dashboard.git
 
 cd happiness-data-analysis-dashboard
 
+```
 
 
-2. Install dependencies
+
+2\. Install dependencies
 
 pip install -r requirements.txt
 
 
 
-3. Run the dashboard
+3\. Run the dashboard
 
 Open happiness\_Index.ipynb in Jupyter Notebook and run all cells
 
 
 
-4. View the dashboard
+4\. View the dashboard
 
 Open your browser and visit: http://127.0.0.1:8050
 
